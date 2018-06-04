@@ -46,7 +46,7 @@ fi
 debugme echo "SAUCE_ACCESS_KEY: ${SAUCE_ACCESS_KEY}"
 debugme echo "USER_ID: ${SAUCE_USERNAME}"
 
-pip -q install requests
+pip install -q requests
 
 cmd_choice=$CMD_CHOICE
 
