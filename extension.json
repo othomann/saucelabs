@@ -11,12 +11,7 @@
             "key": "ACCESS"
         }
     },
-    "inputs": [
-        {
-            "type": "Bluemix",
-            "inclusion" : "always"
-        }
-    ],
+    "inputs": [],
     "params": [
         {
             "name": "USER_ID",
